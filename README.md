@@ -12,7 +12,7 @@ Requirements:
 3. Once you've set up an app, go into the app's dashboard/settings
 4. Under the "Basic Information" tab, you'll find your Client ID & click "View client secret" to reveal your Client Secret, save those you'll need them later.  
 
-### Commandline Setup 
+### Command line Setup 
 1. In the location you'd like to place this app run:
 ```
 mkdir chaptify
