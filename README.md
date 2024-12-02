@@ -42,11 +42,13 @@ Press Esc, type :wq, and hit Enter to save and exit.
 conda activate chaptify
 ```
 2. Make sure the m4b files have the proper title/artist metadata and/OR make the file name
+   
 [authorfirstname authorlastname] - [Short Book Title].m4b
+
 e.g.
-"Octavia E. Butler - Parable of the Sower.m4b"
-"Nathan Hill - The Nix.m4b"
-"Diana Wynne Jones - Howl's Moving Castle.m4b"
+* "Octavia E. Butler - Parable of the Sower.m4b"
+* "Nathan Hill - The Nix.m4b"
+* "Diana Wynne Jones - Howl's Moving Castle.m4b"
 2. Run the code:
 ```
 python chaptify.py -f "Diana Wynne Jones - Howl's Moving Castle.m4b"
